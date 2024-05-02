@@ -1,0 +1,15 @@
+/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/Ejercicios/Ejercicio3/bin/Debug/net8.0/Ejercicio3
+/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/Ejercicios/Ejercicio3/bin/Debug/net8.0/Ejercicio3.deps.json
+/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/Ejercicios/Ejercicio3/bin/Debug/net8.0/Ejercicio3.runtimeconfig.json
+/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/Ejercicios/Ejercicio3/bin/Debug/net8.0/Ejercicio3.dll
+/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/Ejercicios/Ejercicio3/bin/Debug/net8.0/Ejercicio3.pdb
+/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/Ejercicios/Ejercicio3/obj/Debug/net8.0/Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/Ejercicios/Ejercicio3/obj/Debug/net8.0/Ejercicio3.AssemblyInfoInputs.cache
+/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/Ejercicios/Ejercicio3/obj/Debug/net8.0/Ejercicio3.AssemblyInfo.cs
+/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/Ejercicios/Ejercicio3/obj/Debug/net8.0/Ejercicio3.csproj.CoreCompileInputs.cache
+/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/Ejercicios/Ejercicio3/obj/Debug/net8.0/Ejercicio3.sourcelink.json
+/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/Ejercicios/Ejercicio3/obj/Debug/net8.0/Ejercicio3.dll
+/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/Ejercicios/Ejercicio3/obj/Debug/net8.0/refint/Ejercicio3.dll
+/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/Ejercicios/Ejercicio3/obj/Debug/net8.0/Ejercicio3.pdb
+/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/Ejercicios/Ejercicio3/obj/Debug/net8.0/Ejercicio3.genruntimeconfig.cache
+/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/Ejercicios/Ejercicio3/obj/Debug/net8.0/ref/Ejercicio3.dll
