@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/DotNetInVSC/DotNetInVSC.csproj",
+      "projectUniqueName": "/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/DotNetInVSC.csproj",
       "projectName": "DotNetInVSC",
-      "projectPath": "/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/DotNetInVSC/DotNetInVSC.csproj",
+      "projectPath": "/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/DotNetInVSC.csproj",
       "packagesPath": "/home/fundacion/.nuget/packages/",
-      "outputPath": "/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/DotNetInVSC/obj/",
+      "outputPath": "/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/fundacion/.nuget/NuGet/NuGet.Config"

@@ -13,3 +13,11 @@
 /home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/DotNetInVSC/obj/Debug/net8.0/DotNetInVSC.pdb
 /home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/DotNetInVSC/obj/Debug/net8.0/DotNetInVSC.genruntimeconfig.cache
 /home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/DotNetInVSC/obj/Debug/net8.0/ref/DotNetInVSC.dll
+/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/obj/Debug/net8.0/DotNetInVSC.GeneratedMSBuildEditorConfig.editorconfig
+/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/obj/Debug/net8.0/DotNetInVSC.AssemblyInfoInputs.cache
+/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/obj/Debug/net8.0/DotNetInVSC.AssemblyInfo.cs
+/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/obj/Debug/net8.0/DotNetInVSC.csproj.CoreCompileInputs.cache
+/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/obj/Debug/net8.0/DotNetInVSC.sourcelink.json
+/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/obj/Debug/net8.0/DotNetInVSC.dll
+/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/obj/Debug/net8.0/refint/DotNetInVSC.dll
+/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/obj/Debug/net8.0/DotNetInVSC.pdb

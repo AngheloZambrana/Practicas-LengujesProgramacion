@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/DotNetInVSC/Ejercicio/Ejercicio2/Ejercicio2.csproj",
+      "projectUniqueName": "/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/Ejercicios/Ejercicio2/Ejercicio2.csproj",
       "projectName": "Ejercicio2",
-      "projectPath": "/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/DotNetInVSC/Ejercicio/Ejercicio2/Ejercicio2.csproj",
+      "projectPath": "/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/Ejercicios/Ejercicio2/Ejercicio2.csproj",
       "packagesPath": "/home/fundacion/.nuget/packages/",
-      "outputPath": "/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/DotNetInVSC/Ejercicio/Ejercicio2/obj/",
+      "outputPath": "/home/fundacion/Documents/LenguajesProgramacion/Repositorio/Practicas-LengujesProgramacion/Proyecto/Ejercicios/Ejercicio2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/fundacion/.nuget/NuGet/NuGet.Config"

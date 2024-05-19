@@ -1,6 +1,6 @@
 using System;
 
-namespace Practice_metodos4
+namespace Practice_metodos6
 {
     class Program
     {
